@@ -1,5 +1,5 @@
 ## Qui suis-je ?
-<img src="logo.avif" alt="logo" style="max-width: 200px; height: 200px; border: solid;" />
+<img src="logo.avif" alt="Image responsive" style="max-width: 200px; height: 200px; border: solid;" />
 
 ### Ma philosophie
 ---
@@ -13,8 +13,9 @@
 * 1 an : Développeur web
 * 3 ans et demi : Développeur .NET
 
-## Compétences Techniques & Langages
-* **Langages & Frameworks maîtrisés :** C#, .NET / ASP.NET Core, JavaScript, PHP, HTML5, CSS3 / Tailwind CSS
-* **Bases de données & ORM :** SQL Server, Entity Framework Core
-* **Outils & Pratiques :** Git, Web API REST
-* **En cours d'apprentissage / Montée en compétences :** Angular, Microsoft Azure Cloud, GitHub Actions (CI/CD), JWT, SignalR
+## Compétences Techniques & Stack
+
+* **Langages & Backend :** C#, .NET Core, Web API, PHP (Symfony), Entity Framework Core, SQL Server
+* **Frontend :** HTML5, CSS3, JavaScript, Tailwind CSS *(Angular — En cours)*
+* **DevOps & Cloud :** Git, GitHub Actions *(Azure Cloud — En cours)*
+* **Architecture & Sécurité :** RESTful APIs, JWT  *(SignalR En cours)*
