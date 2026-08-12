@@ -16,8 +16,8 @@
 * 8 ans : Entrepreneure & Gestion d'entreprise *(Gestion d'un commerce)*
 
 ## Compétences Techniques & Stack
-* **Langages & Backend :** C#, .NET Core, Web API, PHP (Symfony), Entity Framework Core, SQL Server
-* **Frontend :** HTML5, CSS3, JavaScript, Tailwind CSS *(Angular — En cours)*
-* **DevOps & Cloud :** Git, GitHub Actions *(Azure Cloud — En cours)*
-* **Architecture & Sécurité :** RESTful APIs, JWT, *(SignalR — En cours)*
-* **Soft Skills (Entrepreneuriat) :** Autonomie, gestion de projet, résolution de problèmes, relation client
+* **Langages & Backend :** ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white), Web API, PHP (Symfony), Entity Framework Core, SQL Server
+* **Frontend :** HTML5, CSS3, JavaScript, Tailwind CSS · ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) *(En cours)*
+* **DevOps & Cloud :** Git, GitHub Actions · ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white) *(En cours)*
+* **Architecture & Sécurité :** RESTful APIs, JWT, SignalR
+* **Compétences Transversales :** Autonomie, gestion de projet, résolution de problèmes
