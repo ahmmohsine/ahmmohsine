@@ -13,7 +13,7 @@
 ## Mes Expériences
 * 1 an : Développeuse web
 * 3 ans et demi : Développeuse .NET
-* 8 ans : Entrepreneure & Gestion d'entreprise *(Coffee Shop)*
+* 8 ans : Entrepreneure & Gestion d'entreprise *(Gestion d'un commerce)*
 
 ## Compétences Techniques & Stack
 * **Langages & Backend :** C#, .NET Core, Web API, PHP (Symfony), Entity Framework Core, SQL Server
