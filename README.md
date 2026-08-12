@@ -42,6 +42,6 @@
 
 ## 📊 Statistiques GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmmohsine&show_icons=true&theme=dark&hide_border=true" alt="Statistiques GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmmohsine&layout=compact&theme=dark&hide_border=true" alt="Top Langages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ahmmohsine&theme=dark&show_icons=true" alt="Statistiques GitHub" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ahmmohsine&theme=dark&layout=compact" alt="Top Langages" />
 </p>
