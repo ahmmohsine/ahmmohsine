@@ -16,7 +16,6 @@
 * 8 ans : Entrepreneure & Gestion d'entreprise *(Gestion d'un commerce)*
 
 ## Compétences Techniques & Stack
-
 * **Langages & Backend :** 
   ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) 
   ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) 
@@ -40,3 +39,9 @@
 
 * **Architecture & Sécurité :** RESTful APIs, JWT, *(En cours)* SignalR
 * **Compétences Transversales :** Autonomie, gestion de projet, résolution de problèmes
+
+## 📊 Statistiques GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmmohsine&show_icons=true&theme=dark&hide_border=true" alt="Statistiques GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmmohsine&layout=compact&theme=dark&hide_border=true" alt="Top Langages" />
+</p>
