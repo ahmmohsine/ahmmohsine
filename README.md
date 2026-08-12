@@ -37,7 +37,7 @@
   ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) 
   · ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white) *(En cours)*
 
-* **Architecture & Sécurité :** RESTful APIs, JWT, *(En cours)* SignalR
+* **Architecture & Sécurité :** RESTful APIs, JWT, SignalR *(En cours)*
 * **Compétences Transversales :** Autonomie, gestion de projet, résolution de problèmes
 
 ## 📊 Statistiques GitHub
