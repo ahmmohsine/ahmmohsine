@@ -8,14 +8,16 @@
 ## Mes Formations
 * Bachelier en Informatique
 * Formation .NET chez Technocité
+* Formation chez Technofutur *(En cours)*
 
 ## Mes Expériences
-* 1 an : Développeur web
-* 3 ans et demi : Développeur .NET
+* 1 an : Développeuse web
+* 3 ans et demi : Développeuse .NET
+* 8 ans : Entrepreneure & Gestion d'entreprise *(Coffee Shop)*
 
 ## Compétences Techniques & Stack
-
 * **Langages & Backend :** C#, .NET Core, Web API, PHP (Symfony), Entity Framework Core, SQL Server
 * **Frontend :** HTML5, CSS3, JavaScript, Tailwind CSS *(Angular — En cours)*
 * **DevOps & Cloud :** Git, GitHub Actions *(Azure Cloud — En cours)*
-* **Architecture & Sécurité :** RESTful APIs, JWT  *(SignalR En cours)*
+* **Architecture & Sécurité :** RESTful APIs, JWT, *(SignalR — En cours)*
+* **Soft Skills (Entrepreneuriat) :** Autonomie, gestion de projet, résolution de problèmes, relation client
