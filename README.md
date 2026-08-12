@@ -1,5 +1,5 @@
 ## Qui suis je?
-<img  src="logo.avif" alt="Image responsive" style="max-width: 30%; height: 30%; border:solid">
+<img  src="logo.avif" alt="Image responsive" style="max-width: 40px; height: 40px; border:solid">
 
 
 ### Ma philosophie:
