@@ -1,5 +1,5 @@
 ## Qui suis-je ?
-<img src="carte-perforee.jpg" alt="logo" style="max-width: 200px; height: 200px; border: solid;" />
+<img src="carte-perforee.jpg" alt="logo" style="max-width: auto; height: auto; border: solid;" />
 
 ### Ma philosophie
 ---
