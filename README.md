@@ -18,16 +18,25 @@ Mon parcours combine **4.5 ans de développement logiciel** avec **8 ans de gest
 
 ---
 
-## Tech Stack & Outillage
+## Tech Stack
 
-**Backend & Architecture**
-`C#` `.NET 8` `ASP.NET Core Web API` `Entity Framework Core` `LINQ` `Clean Architecture` `Repository Pattern` `RESTful APIs` `JWT` `Async/Await`
+**Backend & Architecture**  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-**Frontend**
-`Angular` `TypeScript` `RxJS` `Tailwind CSS` `HTML5/CSS3` `JavaScript`
+**Frontend**  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6C1?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**Database & Cloud/DevOps**
-`SQL Server` `T-SQL` `ADO.NET` `Azure` `CI/CD` `Git` `GitHub Actions`
+**Database & Cloud/DevOps**  
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
