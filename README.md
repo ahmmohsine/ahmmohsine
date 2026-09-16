@@ -55,10 +55,17 @@ Mon parcours combine **4.5 ans de développement logiciel** avec **8 ans de gest
 
 * **Technologies :** HTML5, CSS3, Tailwind CSS.
 
+### [EasyTask](https://github.com/ahmmohsine/EasyTask)
+> Application Web SPA de gestion de tâches développée avec Angular et TypeScript, axée sur la réactivité et une architecture composant propre.
+
+* **Architecture Frontend :** Application Angular (v22+) basée sur une architecture par composants (Container/Presenter Pattern) et la gestion stricte du typage TypeScript.
+* **Gestion d'état & Async :** Utilisation intensive de RxJS pour la gestion des flux de données asynchrones, la manipulation d'observables et la mise en page dynamique.
+* **Technologies :** `Angular` `TypeScript` 
+
 ---
 
 ## Contact
 
-- **Email :** mohsine.ahlame@gmail.com
+- **Email :** ahm.mohsine@gmail.com
 - **LinkedIn :** [linkedin.com/in/ahlame-mohsine](https://linkedin.com/in/ahlame-mohsine-6b38a0427)
 - **GitHub :** [github.com/ahmmohsine](https://github.com/ahmmohsine)
