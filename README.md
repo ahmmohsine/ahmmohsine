@@ -2,7 +2,7 @@
 
 ### Développeuse C# / .NET | Analyste-Programmeuse Full Stack
 
-Bachelier en Informatique & Systèmes | 4.5 ans d'expérience applicative (.NET & Web)  
+Développeuse C# / .NET avec une expérience professionnelle en développement logiciel et une reprise active du développement sur les technologies .NET modernes.
 Spécialisation Full Stack .NET Core, Angular & Azure (Technofutur TIC) — *Fin : Décembre 2026*  
 **Disponible pour de nouvelles opportunités C#/.NET dès Janvier 2027**
 
