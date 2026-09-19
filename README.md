@@ -1,80 +1,304 @@
-# Ahlame Mohsine
+# Hi, I'm Ahlame Mohsine
 
-### Développeuse C# / .NET | Analyste-Programmeuse Full Stack
+## C# / .NET Developer | Analyst-Programmer | Full Stack Developer
 
-Développeuse C# / .NET avec une expérience professionnelle en développement logiciel et une reprise active du développement sur les technologies .NET modernes.
-Spécialisation Full Stack .NET Core, Angular & Azure (Technofutur TIC) — *Fin : Décembre 2026*  
-**Disponible pour de nouvelles opportunités C#/.NET dès Janvier 2027**
+C# / .NET developer with professional experience in software development, analysis and web application development.
 
----
+After several years dedicated to entrepreneurship, I decided to return fully to software development. I refreshed my C# and .NET skills through self-learning and hands-on projects, and I am currently completing an intensive **Full Stack .NET & Azure** training at Technofutur TIC.
 
-## À propos
+I enjoy understanding how things work, investigating bugs, testing solutions and finding the right technical approach to solve a problem.
 
-Développeuse .NET axée sur la conception d'architectures backend robustes (Web API, Clean Architecture, EF Core). 
-
-Mon parcours combine **4.5 ans de développement logiciel** avec **8 ans de gestion d'entreprise**. Cette double compétence me permet de comprendre les enjeux métiers complexes, de concevoir des solutions applicatives efficaces et d'interagir avec précision auprès des parties prenantes.
-
-> *« Je ne perds jamais. Soit je gagne, soit j'apprends. »*
+🎯 **Looking for a C# / .NET development opportunity from January 2027.**
 
 ---
 
-## Tech Stack
+## Current Focus
 
-**Backend & Architecture**  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+I am currently developing my skills around:
 
-**Frontend**  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6C1?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**Database & Cloud/DevOps**  
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+- C#
+- .NET 8
+- ASP.NET Core
+- Web API / REST
+- Entity Framework Core
+- Dapper
+- SQL Server
+- Angular
+- TypeScript
+- Git / GitHub
+- Microsoft Azure
+- Clean Architecture
+- Software architecture and design principles
 
 ---
 
-## Parcours & Compétences
+## 🛠️ Technical Skills
 
-| Domaine | Durée | Focus principal |
-|---|---|---|
-| **Développement .NET / C#** | 3,5 ans | Conception d'API, refactoring, architecture N-Tiers, SQL Server |
-| **Gestion d'entreprise & Projets** | 8 ans | Analyse de besoins, gestion des exigences, autonomie, leadership |
-| **Développement Web** | 1 an | Interfaces responsive, intégration front-end |
+### Backend
+
+- C#
+- .NET / .NET Core
+- ASP.NET Core
+- ASP.NET MVC
+- ASP.NET Web API
+- REST APIs
+- WebForms
+- WCF
+- Blazor
+
+### Data Access & Database
+
+- SQL Server
+- T-SQL
+- Entity Framework
+- Entity Framework Core
+- Dapper
+- ADO.NET
+- LINQ
+
+### Frontend
+
+- Angular
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+- jQuery
+- Tailwind CSS
+
+### Architecture & Development
+
+- Object-Oriented Programming (OOP)
+- Clean Architecture
+- Repository Pattern
+- Service Layer
+- DTOs
+- Dependency Injection
+- REST API design
+- UML
+- Agile / Scrum
+
+### Tools & Cloud
+
+- Git
+- GitHub
+- Visual Studio
+- Visual Studio Code
+- SQL Server Management Studio
+- Microsoft Azure
+- TFS
+
+### Other Technologies
+
+- PHP
+- Symfony
+- WordPress
 
 ---
 
-## Projets Récents
+## Featured Projects
 
-### [HotelListing.API](https://github.com/ahmmohsine/HotelListing.API)
-> API RESTful sous .NET 8 implémentant les meilleures pratiques d'architecture logicielle.
+### HotelListing.API
 
-* **Architecture :** Clean Architecture, Repository/Service Pattern, DTOs & Mappings déclaratifs.
-* **Sécurité & Data :** Authentification via JWT, gestion de données sous EF Core et SQL Server.
-* **Performance :** Traitements I/O entièrement asynchrones (`async/await`), gestion centralisée des exceptions.
+**C# | .NET 8 | ASP.NET Core Web API | Entity Framework Core | SQL Server**
 
-### [Nova Travel](https://github.com/ahmmohsine/nova-travel)
-> Interface web moderne et responsive dédiée au secteur du voyage.
+A REST API project developed to practice modern ASP.NET Core development and backend architecture.
 
-* **Technologies :** HTML5, CSS3, Tailwind CSS.
+Main topics:
 
-### [EasyTask](https://github.com/ahmmohsine/EasyTask)
-> Application Web SPA de gestion de tâches développée avec Angular et TypeScript, axée sur la réactivité et une architecture composant propre.
+- ASP.NET Core Web API
+- REST API development
+- Entity Framework Core
+- SQL Server
+- DTOs
+- Repository and Service patterns
+- Clean Architecture principles
+- Dependency Injection
+- JWT Authentication
+- Exception handling
+- Asynchronous programming
+- `async/await`
+- `CancellationToken`
 
-* **Architecture Frontend :** Application Angular (v22+) basée sur une architecture par composants (Container/Presenter Pattern) et la gestion stricte du typage TypeScript.
-* **Gestion d'état & Async :** Utilisation intensive de RxJS pour la gestion des flux de données asynchrones, la manipulation d'observables et la mise en page dynamique.
-* **Technologies :** `Angular` `TypeScript` 
+🔗 [View the project](https://github.com/ahmmohsine/HotelListing.API)
+
+---
+
+### Catalogue_Dapper
+
+**C# | .NET | Dapper | SQL Server | Web API**
+
+A project focused on learning and practicing **Dapper** as a lightweight data-access technology in the .NET ecosystem.
+
+The project is organized into separate layers:
+
+- `Catalogue.Api`
+- `Catalogue.Core`
+- `Catalogue.Infrastructure`
+- `Dapper`
+
+Main topics:
+
+- Dapper
+- SQL queries
+- SQL Server
+- API development
+- Separation of responsibilities
+- Layered architecture
+- Data access
+- C# / .NET
+
+🔗 [View the project](https://github.com/ahmmohsine/Catalogue_Dapper)
+
+---
+
+### EasyTask
+
+**Angular | TypeScript | RxJS**
+
+A frontend project developed to practice modern Angular development.
+
+Main topics:
+
+- Angular
+- TypeScript
+- Components
+- Data binding
+- RxJS
+- Observables
+- Application structure
+- Frontend architecture
+
+🔗 [View the project](https://github.com/ahmmohsine/EasyTask)
+
+---
+
+### Nova Travel
+
+**HTML | CSS | Tailwind CSS**
+
+A frontend project focused on responsive web development and UI implementation.
+
+🔗 [View the project](https://github.com/ahmmohsine/nova-travel)
+
+---
+
+## Training
+
+### Technofutur TIC — Full Stack .NET & Cloud Azure
+
+**July 2026 – December 2026**
+
+Intensive training focused on:
+
+- C#
+- .NET / .NET Core
+- ASP.NET Core
+- Web API
+- REST
+- Entity Framework Core
+- SQL Server
+- Angular
+- TypeScript
+- Microsoft Azure
+- Cloud architecture
+- Full Stack development
+
+---
+
+## Continuous Learning
+
+Before starting my Technofutur training, I independently refreshed and strengthened my C# and .NET knowledge through online courses, documentation and practical projects.
+
+I continue to learn by building projects and experimenting with different approaches and technologies.
+
+Recently explored:
+
+- Dapper
+- ASP.NET Core
+- Entity Framework Core
+- Angular Signals
+- TypeScript
+- Clean Architecture
+- REST API design
+- Azure
+
+---
+
+## Professional Background
+
+My professional background combines software development and entrepreneurship.
+
+### Software Development
+
+I previously worked as an **Analyst-Programmer .NET**, working on web applications and internal business applications using technologies such as C#, ASP.NET, SQL Server, JavaScript and TFS.
+
+I also worked on PHP/Symfony web development and business applications.
+
+### Entrepreneurship
+
+For several years, I ran my own coffee shop business.
+
+This experience strengthened skills that I now bring into software development:
+
+- Autonomy
+- Organization
+- Communication
+- Customer understanding
+- Problem solving
+- Adaptability
+- Prioritization
+- Sense of responsibility
+
+I also contributed to the digital side of my partner's business, including maintaining and updating a website developed with **PHP / Symfony**.
+
+---
+
+## How I Work
+
+I enjoy working as part of a team and integrating into new environments.
+
+I pay particular attention to understanding **user and customer needs**, because I believe that a good technical solution should first respond to a real business need.
+
+I am naturally curious and enjoy investigating problems:
+
+> Understand → Analyze → Test → Debug → Find a solution → Improve
+
+One of the things I enjoy most about development is the moment when a difficult bug is finally understood and solved.
+
+---
+
+## Currently Looking For
+
+I am looking for a position where I can continue developing my skills while contributing to real projects.
+
+### Target positions
+
+- C# Developer
+- .NET Developer
+- ASP.NET Core Developer
+- Full Stack .NET Developer
+- Analyst-Programmer .NET
+- Junior / Medior .NET Developer
+
+### Preferred technologies
+
+**C# | .NET | ASP.NET Core | Web API | SQL Server | Entity Framework Core | Dapper | Angular | Azure**
+
+**Available from January 2027**
 
 ---
 
 ## Contact
 
-- **Email :** ahm.mohsine@gmail.com
-- **LinkedIn :** [linkedin.com/in/ahlame-mohsine](https://linkedin.com/in/ahlame-mohsine-6b38a0427)
-- **GitHub :** [github.com/ahmmohsine](https://github.com/ahmmohsine)
+📍 Boussu, Belgium
+
+📧 **ahm.mohsine@gmail.com**
+
+[LinkedIn](https://www.linkedin.com/in/ACoAAGwp_ecBzQPRCwzefCRXmMXST1vNFFF1fhI)
+
+[GitHub](https://github.com/ahmmohsine)
+
+---
+
+⭐ Feel free to explore my repositories and projects.
