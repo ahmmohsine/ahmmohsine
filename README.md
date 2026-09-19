@@ -8,7 +8,7 @@ After several years dedicated to entrepreneurship, I decided to return fully to 
 
 I enjoy understanding how things work, investigating bugs, testing solutions and finding the right technical approach to solve a problem.
 
-🎯 **Looking for a C# / .NET development opportunity from January 2027.**
+**Looking for a C# / .NET development opportunity from January 2027.**
 
 ---
 
@@ -32,7 +32,7 @@ I am currently developing my skills around:
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Backend
 
